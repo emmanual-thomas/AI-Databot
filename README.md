@@ -45,7 +45,3 @@ A general-purpose chatbot for everyday data interactions.
 (Currently under development) – Designed for deeper insights and analytics.  
 
 ---
-
-## **💡 Final Note**
-Thank you for choosing my Chatbot Service!  
-I look forward to helping you streamline communication, enhance customer engagement, and make data interaction a delightful experience.  
