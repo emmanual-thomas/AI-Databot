@@ -1,0 +1,10 @@
+{
+    "name": "Data-Bot",
+    "version": "0.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "default.html"
+    },
+    "permissions": ["activeTab"]
+  }
+  
